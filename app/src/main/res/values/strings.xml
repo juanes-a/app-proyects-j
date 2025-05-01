@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My application</string>
+
+    <!-- Textos de bienvenida -->
+    <string name="welcome_title">¡Bienvenido de nuevo!</string>
+    <string name="welcome_subtitle">Aquí tienes un resumen de tus proyectos activos</string>
+
+    <!-- Tarjeta de proyectos -->
+    <string name="projects_icon_desc">Icono de proyectos</string>
+    <string name="projects_count">12</string>
+    <string name="projects_label">Proyectos activos</string>
+
+    <!-- Tarjeta de tareas -->
+    <string name="tasks_icon_desc">Icono de tareas</string>
+    <string name="tasks_count">24</string>
+    <string name="tasks_label">Tareas pendientes</string>
+
+    <!-- Tarjeta de equipos -->
+    <string name="teams_icon_desc">Icono de equipos</string>
+    <string name="teams_count">5</string>
+    <string name="teams_label">Equipos</string>
+
+    <!-- Secciones -->
+    <string name="recent_projects">Tus proyectos recientes</string>
+    <string name="urgent_tasks">Tareas urgentes</string>
+
+    <!-- Botón flotante -->
+    <string name="add_project_desc">Añadir nuevo proyecto</string>
+</resources>
